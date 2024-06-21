@@ -76,8 +76,7 @@ trait Clonable
             'date_mod',
             'date_creation',
             'template_name',
-            'is_template',
-            'sons_cache',
+            'is_template'
         ];
         foreach ($properties_to_clean as $property) {
             if (array_key_exists($property, $input)) {

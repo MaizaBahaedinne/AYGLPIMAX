@@ -183,7 +183,7 @@ class Socket extends CommonDBChild
      *     - itemtype type of the item for add process
      *     - items_id ID of the item for add process
      *
-     * @return boolean true if displayed  false if item not found or not right to display
+     * @return true if displayed  false if item not found or not right to display
      **/
     public function showForm($ID, array $options = [])
     {

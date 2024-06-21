@@ -1,0 +1,63 @@
+2024-06-21 13:43:36 [@AYM-5VL4BS3]
+Computer:
+	prepare:
+		Execution time:      0.00703 seconde
+		Memory usage:        23.08 Mio
+		Memory usage (real): 26 Mio
+		Memory peak:         23.15 Mio
+
+	handle:
+		Execution time:      4.04086 secondes
+		Memory usage:        46.46 Mio
+		Memory usage (real): 50 Mio
+		Memory peak:         46.9 Mio
+
+	full:
+		Execution time:      7.19532 secondes
+		Memory usage:        45.39 Mio
+		Memory usage (real): 50 Mio
+		Memory peak:         46.9 Mio
+
+Inventoried assets: Computer #319
+2024-06-21 14:10:55 [@AYM-5VL4BS3]
+Computer:
+	prepare:
+		Execution time:      0.00684 seconde
+		Memory usage:        23.13 Mio
+		Memory usage (real): 26 Mio
+		Memory peak:         23.2 Mio
+
+	handle:
+		Execution time:      1.91449 seconde
+		Memory usage:        44.05 Mio
+		Memory usage (real): 48 Mio
+		Memory peak:         44.49 Mio
+
+	full:
+		Execution time:      3.07746 secondes
+		Memory usage:        44.05 Mio
+		Memory usage (real): 48 Mio
+		Memory peak:         44.49 Mio
+
+Inventoried assets: Computer #319
+2024-06-21 16:10:58 [@AYM-5VL4BS3]
+Computer:
+	prepare:
+		Execution time:      0.00369 seconde
+		Memory usage:        23.16 Mio
+		Memory usage (real): 26 Mio
+		Memory peak:         23.23 Mio
+
+	handle:
+		Execution time:      9.0999 secondes
+		Memory usage:        57.81 Mio
+		Memory usage (real): 60 Mio
+		Memory peak:         58.25 Mio
+
+	full:
+		Execution time:      11.20408 secondes
+		Memory usage:        57.81 Mio
+		Memory usage (real): 60 Mio
+		Memory peak:         58.25 Mio
+
+Inventoried assets: Computer #319

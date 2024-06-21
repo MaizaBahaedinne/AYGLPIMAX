@@ -2387,7 +2387,7 @@ class User extends CommonDBTM
 
             $this->fields = $rule->processAllRules($groups_id, Toolbox::stripslashes_deep($this->fields), [
                 'type'   => Auth::EXTERNAL,
-                'email'  => $this->fields["_emails"] ?? [],
+                'email'  => $this->fields["_emails"],
                 'login'  => $this->fields["name"]
             ]);
 
@@ -5120,10 +5120,7 @@ HTML;
                     $itemtable = getTableForItemType($itemtype);
                     $iterator_params = [
                         'FROM'   => $itemtable,
-                        'WHERE'  => [
-                            'entities_id' => $this->getEntities(),
-                            'OR'          => $group_where
-                        ]
+                        'WHERE'  => ['OR' => $group_where]
                     ];
 
                     if ($item->maybeTemplate()) {

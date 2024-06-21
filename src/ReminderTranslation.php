@@ -310,9 +310,9 @@ class ReminderTranslation extends CommonDBChild
      * It be translated if translation if globally on and item is an instance of CommonDropdown
      * or CommonTreeDropdown and if translation is enabled for this class
      *
-     * @param CommonGLPI $item the item to check
+     * @param item the item to check
      *
-     * @return boolean true if item can be translated, false otherwise
+     * @return true if item can be translated, false otherwise
      **/
     public static function canBeTranslated(CommonGLPI $item)
     {
@@ -342,7 +342,7 @@ class ReminderTranslation extends CommonDBChild
     /**
      * Get already translated languages for item
      *
-     * @param CommonDBTM $item
+     * @param item
      *
      * @return array of already translated languages
      **/

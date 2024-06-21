@@ -64,15 +64,9 @@ class RuleLocation extends Rule
                                 $action->fields["value"],
                                 $regex_result
                             );
-
-                            // from rule test context just assign regex value to key
-                            if ($this->is_preview) {
-                                $output['locations_id'] = $regexvalue;
-                            } else {
-                                $compute_entities_id = $input['entities_id'] ?? 0;
-                                $location = new Location();
-                                $output['locations_id'] = $location->importExternal($regexvalue, $compute_entities_id);
-                            }
+                            $compute_entities_id = $input['entities_id'] ?? 0;
+                            $location = new Location();
+                            $output['locations_id'] = $location->importExternal($regexvalue, $compute_entities_id);
                         }
                     }
                     break;

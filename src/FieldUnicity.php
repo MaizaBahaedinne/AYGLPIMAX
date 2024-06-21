@@ -532,7 +532,7 @@ class FieldUnicity extends CommonDropdown
     /**
      * Delete all criterias for an itemtype
      *
-     * @param string $itemtype
+     * @param itemtype
      *
      * @return void
      **/

@@ -305,7 +305,7 @@ class DBConnection extends CommonDBTM
     /**
      * Indicates is the DB replicate is active or not
      *
-     * @return boolean true if active / false if not active
+     * @return true if active / false if not active
      **/
     public static function isDBSlaveActive()
     {
@@ -318,7 +318,7 @@ class DBConnection extends CommonDBTM
      *
      * @param integer $choice  Host number (default NULL)
      *
-     * @return DBmysql|void object
+     * @return DBmysql object
      **/
     public static function getDBSlaveConf($choice = null)
     {

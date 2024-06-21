@@ -290,8 +290,7 @@ class Inventory
                 //if inventory is not partial, we consider following properties are empty if not present; so they'll be removed
                 $empty_props = [
                     'virtualmachines',
-                    'remote_mgmt',
-                    'monitors'
+                    'remote_mgmt'
                 ];
             }
 
@@ -574,7 +573,7 @@ class Inventory
      */
     final public function processInventoryData()
     {
-        //map existing keys in inventory format to their respective Inventory\Asset class if needed.
+       //map existing keys in inventory format to their respective Inventory\Asset class if needed.
         foreach ($this->data as $key => &$value) {
             $assettype = false;
 

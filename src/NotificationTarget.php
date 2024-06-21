@@ -701,13 +701,14 @@ class NotificationTarget extends CommonDBChild
 
         switch ($usertype) {
             case self::EXTERNAL_USER:
-            case self::GLPI_USER:
                 return $CFG_GLPI["url_base"] . "/index.php?redirect=$redirect";
 
-            // case self::ANONYMOUS_USER:
-            default:
-                // No URL
+            case self::ANONYMOUS_USER:
+               // No URL
                 return '';
+
+            case self::GLPI_USER:
+                return $CFG_GLPI["url_base"] . "/index.php?redirect=$redirect&noAUTO=1";
         }
     }
 

@@ -1,0 +1,116 @@
+2024-06-14 11:09:24 [@DESKTOP-57QGKEF]
+[login] 3: glpi se connecte depuis l'IP ::1
+2024-06-14 11:30:26 [@DESKTOP-57QGKEF]
+[Impersonate] 3: glpi commence la prise d'identité de l'utilisateur bahaedinne.maiza@aymax.fr
+2024-06-14 11:30:26 [@DESKTOP-57QGKEF]
+[login] 3: glpi se connecte depuis l'IP ::1
+2024-06-14 11:31:01 [@DESKTOP-57QGKEF]
+[login] 3: bahaedinne.maiza@aymax.fr se connecte depuis l'IP ::1
+2024-06-14 11:32:18 [@DESKTOP-57QGKEF]
+[login] 3: bahaedinne.maiza@aymax.fr se connecte depuis l'IP ::1
+2024-06-14 11:32:36 [@DESKTOP-57QGKEF]
+[login] 3: bahaedinne.maiza@aymax.fr se connecte depuis l'IP ::1
+2024-06-14 11:33:12 [@DESKTOP-57QGKEF]
+[login] 3: bahaedinne.maiza@aymax.fr se connecte depuis l'IP ::1
+2024-06-14 12:24:24 [2@DESKTOP-57QGKEF]
+[setup] [Plugin 26] 3: Le plugin « Single Sign-on » a été installé par glpi (2).
+2024-06-14 12:24:32 [2@DESKTOP-57QGKEF]
+[setup] [Plugin 27] 3: Le plugin « Single Sign-on » a été activé par glpi (2).
+2024-06-14 13:12:18 [@DESKTOP-57QGKEF]
+[login] 3: glpi se connecte depuis l'IP ::1
+2024-06-14 13:15:34 [@DESKTOP-57QGKEF]
+[login] 3: bahaedinne.maiza@aymax.fr se connecte depuis l'IP ::1
+2024-06-14 13:15:58 [@DESKTOP-57QGKEF]
+[login] 3: glpi se connecte depuis l'IP ::1
+2024-06-14 13:21:08 [@DESKTOP-57QGKEF]
+[login] 3: bahaedinne.maiza@aymax.fr se connecte depuis l'IP ::1
+2024-06-14 13:22:06 [@DESKTOP-57QGKEF]
+[login] 3: glpi se connecte depuis l'IP ::1
+2024-06-14 13:29:40 [@DESKTOP-57QGKEF]
+[login] 3: glpi se connecte depuis l'IP ::1
+2024-06-14 13:40:22 [2@DESKTOP-57QGKEF]
+[setup] [Plugin 44] 3: Le plugin « Single Sign-on » a été désinstallé par glpi (2).
+2024-06-14 13:44:49 [2@DESKTOP-57QGKEF]
+[setup] [Plugin 45] 3: Le plugin « Single Sign-on » a été installé par glpi (2).
+2024-06-14 13:44:51 [2@DESKTOP-57QGKEF]
+[setup] [Plugin 46] 3: Le plugin « Single Sign-on » a été activé par glpi (2).
+2024-06-14 15:19:37 [@DESKTOP-57QGKEF]
+[login] 3: GLPI se connecte depuis l'IP ::1
+2024-06-14 15:47:48 [@DESKTOP-57QGKEF]
+[login] 3: bahaedinne.maiza@aymax.fr se connecte depuis l'IP ::1
+2024-06-14 15:51:06 [@DESKTOP-57QGKEF]
+[login] 3: Connexion échouée de  depuis l'IP ::1
+2024-06-14 15:51:16 [@DESKTOP-57QGKEF]
+[login] 3: glpi se connecte depuis l'IP ::1
+2024-06-15 21:13:32 [@DESKTOP-57QGKEF]
+[login] 3: bahaedinne.maiza@aymax.fr se connecte depuis l'IP ::1
+2024-06-15 21:22:53 [@DESKTOP-57QGKEF]
+[login] 3: glpi se connecte depuis l'IP ::1
+2024-06-15 21:42:51 [@DESKTOP-57QGKEF]
+[login] 3: glpi se connecte depuis l'IP ::1
+2024-06-15 21:44:04 [2@DESKTOP-57QGKEF]
+[setup] [Plugin 95] 3: Plugin Data injection has been installed by glpi (2).
+2024-06-15 21:44:06 [2@DESKTOP-57QGKEF]
+[setup] [Plugin 96] 3: Plugin Data injection has been activated by glpi (2).
+2024-06-16 21:50:17 [@DESKTOP-57QGKEF]
+[login] 3: Connexion échouée de  depuis l'IP ::1
+2024-06-16 21:51:39 [@DESKTOP-57QGKEF]
+[login] 3: glpi se connecte depuis l'IP ::1
+2024-06-16 22:21:49 [2@DESKTOP-57QGKEF]
+[setup] 3: glpia édité la configuration des notifications par navigateur
+2024-06-16 22:45:54 [2@DESKTOP-57QGKEF]
+[setup] [Plugin 100] 3: Le plugin « Barcode » a été installé par glpi (2).
+2024-06-16 22:53:38 [2@DESKTOP-57QGKEF]
+[setup] [Plugin 101] 3: Le plugin « Barcode » a été activé par glpi (2).
+2024-06-16 22:55:09 [2@DESKTOP-57QGKEF]
+[setup] [Plugin 102] 3: Le plugin « Comptes » a été installé par glpi (2).
+2024-06-16 22:55:15 [2@DESKTOP-57QGKEF]
+[setup] [Plugin 103] 3: Le plugin « ActualTime » a été installé par glpi (2).
+2024-06-16 22:55:23 [2@DESKTOP-57QGKEF]
+[setup] [Plugin 104] 3: Le plugin « Badges » a été installé par glpi (2).
+2024-06-16 22:55:29 [2@DESKTOP-57QGKEF]
+[setup] [Plugin 105] 3: Le plugin « Comptes » a été activé par glpi (2).
+2024-06-16 22:55:35 [2@DESKTOP-57QGKEF]
+[setup] [Plugin 106] 3: Le plugin « Activités quotidiennes » a été installé par glpi (2).
+2024-06-16 22:55:52 [2@DESKTOP-57QGKEF]
+[setup] [Plugin 107] 3: Le plugin « ActualTime » a été activé par glpi (2).
+2024-06-16 22:55:53 [2@DESKTOP-57QGKEF]
+[setup] [Plugin 108] 3: Le plugin « Activités quotidiennes » a été activé par glpi (2).
+2024-06-16 22:55:55 [2@DESKTOP-57QGKEF]
+[setup] [Plugin 109] 3: Le plugin « Badges » a été activé par glpi (2).
+2024-06-16 23:07:52 [@DESKTOP-57QGKEF]
+[login] 3: Connexion échouée de  depuis l'IP ::1
+2024-06-16 23:08:17 [@DESKTOP-57QGKEF]
+[login] 3: glpi se connecte depuis l'IP ::1
+2024-06-16 23:09:10 [@DESKTOP-57QGKEF]
+[login] 3: bahaedinne.maiza@aymax.fr se connecte depuis l'IP ::1
+2024-06-16 23:12:39 [2@DESKTOP-57QGKEF]
+[setup] [Plugin 113] 3: Le plugin « Plus de rapports » a été installé par glpi (2).
+2024-06-16 23:13:48 [2@DESKTOP-57QGKEF]
+[setup] [Plugin 114] 3: Le plugin « Plus de rapports » a été activé par glpi (2).
+2024-06-17 10:34:18 [@DESKTOP-57QGKEF]
+[login] 3: bahaedinne.maiza@aymax.fr se connecte depuis l'IP ::1
+2024-06-20 11:52:53 [2@AYM-5VL4BS3]
+[setup] [Plugin 170] 3: Plugin Human Resources has been installed by glpi (2).
+2024-06-20 11:53:51 [2@AYM-5VL4BS3]
+[setup] [Plugin 171] 3: Plugin Human Resources has been activated by glpi (2).
+2024-06-21 13:21:55 [2@AYM-5VL4BS3]
+[setup] [Plugin 172] 3: Le plugin « Human Resources » a été désactivé par glpi (2).
+2024-06-21 13:21:57 [2@AYM-5VL4BS3]
+[setup] [Plugin 173] 3: Le plugin « Comptes » a été désactivé par glpi (2).
+2024-06-21 14:52:06 [@AYM-5VL4BS3]
+[login] 3: Connexion échouée de bahaedinne.maiza@ayma.fr depuis l'IP ::1
+2024-06-21 14:52:20 [@AYM-5VL4BS3]
+[login] 3: Connexion échouée de bahaedinne.maiza@aymax.fr depuis l'IP ::1
+2024-06-21 14:53:40 [@AYM-5VL4BS3]
+[login] 3: bahaedinne.maiza@aymax.fr se connecte depuis l'IP ::1
+2024-06-21 14:55:24 [@AYM-5VL4BS3]
+[login] 3: bahaedinne.maiza@aymax.fr se connecte depuis l'IP ::1
+2024-06-21 15:12:38 [2@AYM-5VL4BS3]
+[setup] [Plugin 186] 3: Le plugin « Plus de satisfaction » a été installé par glpi (2).
+2024-06-21 15:12:42 [2@AYM-5VL4BS3]
+[setup] [Plugin 187] 3: Le plugin « Plus de satisfaction » a été activé par glpi (2).
+2024-06-21 16:15:29 [2@AYM-5VL4BS3]
+[setup] [Plugin 188] 3: Le plugin « Connexions » a été installé par glpi (2).
+2024-06-21 16:15:36 [2@AYM-5VL4BS3]
+[setup] [Plugin 189] 3: Le plugin « Connexions » a été activé par glpi (2).
